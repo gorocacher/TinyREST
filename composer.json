@@ -1,5 +1,5 @@
 {
-	"name": "flame/tiny-rest",
+	"name": "gorocacher/tiny-rest",
 	"type": "library",
 	"description": "Smart implementation of REST for Nette",
 	"keywords": ["framework", "smart", "simple", "flame", "jsifalda", "tiny", "rest", "restful"],
